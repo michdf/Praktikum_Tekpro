@@ -1,0 +1,39 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: ABC Store, Main Street
+Employee Name: John Doe 
+Base Pay: $5000.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $25.0/hr
+Total Sales in store: $100000.0
+Sales done: $30000.0
+Percentage of sales done: 30.00%
+Gross Payment: $6900.0
+Net Payment: $5934.0
+Remaining store revenue: $78309.0
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+Store Details: XYZ Store, Park Avenue
+Employee Name: Jane Smith
+Base Pay: $3000.0
+Number of Hours worked: 30.0hrs
+Payment Rate per hour: $20.0/hr
+Sales Rate: 3500.0%
+Total commission: $300.0
+Gross Payment: $3900.0
+Net Payment: $3354.0
+******************************************************
+Number of employees working as ADMIN are: 1
+******************************************************
+Store Details: PQR Store, Main Road
+Employee Name: Bob Johnson
+Base Pay: $4500.0
+Number of Hours worked: 35.0hrs
+Payment Rate per hour: $22.0/hr
+
+Total commission: $0.0
+Gross Payment: $5797.000000000001
+Net Payment: $4985.4
